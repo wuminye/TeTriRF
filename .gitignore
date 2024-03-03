@@ -1,0 +1,12 @@
+**/.ipynb_checkpoints
+**/__pycache__
+*.npy
+*.npz
+*.dae
+data
+logs
+log/*
+*.sh
+wandb/*
+configs/*
+*.txt
