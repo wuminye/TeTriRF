@@ -8,5 +8,4 @@ logs
 log/*
 *.sh
 wandb/*
-configs/*
 *.txt
